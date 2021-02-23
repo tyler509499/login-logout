@@ -16,7 +16,7 @@ class PaymentsTableViewCell: UITableViewCell {
     
     override func awakeFromNib() {
         super.awakeFromNib()
-        //descriptionLabel.sizeToFit()
+        descriptionLabel.sizeToFit()
         
     }
 
